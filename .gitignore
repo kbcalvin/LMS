@@ -1,0 +1,14 @@
+# Local database credentials
+.env
+.env.*
+!.env.example
+
+# Uploaded member profile pictures
+/uploads/profile_pictures/
+
+# Local tooling
+.vscode/
+.idea/
+*.log
+Thumbs.db
+Desktop.ini
